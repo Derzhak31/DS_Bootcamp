@@ -1,0 +1,14 @@
+('Gross Profit', '17,962,502.00', '17,962,502.00', '14,007,929.00', '12,447,265.00', '12,365,161.00')
+         350922 function calls (350861 primitive calls) in 2.982 seconds
+
+   Ordered by: cumulative time
+   List reduced from 514 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      4/1    0.000    0.000    2.982    2.982 {built-in method builtins.exec}
+        1    0.000    0.000    2.982    2.982 <string>:1(<module>)
+        1    0.000    0.000    2.982    2.982 C:\Users\79611\Desktop\Mekka\DS_Bootcamp.Day03-1\src\ex04\financial_enhanced.py:8(main)
+      894    0.001    0.000    2.502    0.003 C:\Users\79611\AppData\Local\Programs\Python\Python313\Lib\socket.py:706(readinto)
+      894    0.002    0.000    2.500    0.003 C:\Users\79611\AppData\Local\Programs\Python\Python313\Lib\ssl.py:1289(recv_into)
+
+
